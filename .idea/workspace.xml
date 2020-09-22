@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f858d50c-317b-4db8-b6c0-4c1b2383edf8" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/bee03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/app.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/default.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routers/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/reload.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/default_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/index.tpl" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hrffSoC4HckaoQpH1IXHW9RcjL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build bee03" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="bee03" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="bee03" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build bee03" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="385" y="38" key="#go_build_bee03" timestamp="1600774249342">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="385" y="38" key="#go_build_bee03/0.0.1440.860@0.0.1440.860" timestamp="1600774249342" />
+    <state x="449" y="131" key="FileChooserDialogImpl" timestamp="1600774248094">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="449" y="131" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1600774248094" />
+    <state width="1387" height="207" key="GridCell.Tab.0.bottom" timestamp="1600775335394">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1387" height="207" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1600775335394" />
+    <state width="1387" height="207" key="GridCell.Tab.0.center" timestamp="1600775335394">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1387" height="207" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1600775335394" />
+    <state width="1387" height="207" key="GridCell.Tab.0.left" timestamp="1600775335394">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1387" height="207" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1600775335394" />
+    <state width="1387" height="207" key="GridCell.Tab.0.right" timestamp="1600775335394">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1387" height="207" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1600775335394" />
+  </component>
+</project>
